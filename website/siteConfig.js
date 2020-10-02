@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
+        linkedin: 'https://www.linkedin.com/in/archanaapriya-nallasivan/',
         twitter: '',
         github: '',
     },
