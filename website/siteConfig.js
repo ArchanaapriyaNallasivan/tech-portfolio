@@ -16,7 +16,7 @@ const siteConfig = {
     tagline: 'Aspiring Junior Software developer',
     profilePhoto: 'img/profile.png',
     url: 'https://joatmon08.github.io', // Your website URL
-    baseUrl: '/tech-portfolio/', // Base URL for your project */
+    baseUrl: '/portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
